@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['picsum.photos'],
+    domains: ['d3cvnrw4bpahxk.cloudfront.net'],
   },
 
 }
